@@ -1,0 +1,4 @@
+INFO: System started
+WARNING: Disk space low
+ERROR: Unable to connect to server
+INFO: User logged in
